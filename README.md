@@ -2,3 +2,4 @@
 
 react-router library
 using postman
+react lifecycle method componentWillMount
